@@ -70,3 +70,4 @@ node_modules/
 drive-oauth.json
 firebase-key.json
 serviceAccountKey.json
+medplat_backup*.tar.gz
