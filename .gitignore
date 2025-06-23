@@ -67,3 +67,6 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+drive-oauth.json
+firebase-key.json
+serviceAccountKey.json
